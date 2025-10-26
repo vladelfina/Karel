@@ -81,7 +81,7 @@ def turn_180_degree():
     # Karel turn around
     turn_left()
     turn_left()
-
+    move()
 
 if __name__ == "__main__":
     run_karel_program("StoneMasonKarel.w")
