@@ -83,4 +83,4 @@ def turn_180_degree():
     turn_left()
 
 if __name__ == "__main__":
-    run_karel_program("StoneMasonKarel.w")
+    run_karel_program("StoneMasonKarel6x6.w")
