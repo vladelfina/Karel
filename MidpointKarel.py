@@ -78,7 +78,7 @@ def find_beeper():
         put_beeper()
 
 def turn_180_degree():
-    # Karel turn around now
+    # Karel turn around
     turn_left()
     turn_left()
 
